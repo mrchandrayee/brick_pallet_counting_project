@@ -1,0 +1,15 @@
+{
+  "top_roi": [0.02, 0.05, 0.98, 0.95],
+  "side_roi": [0.02, 0.05, 0.98, 0.95],
+  "canny_low": 45,
+  "canny_high": 140,
+  "min_brick_area_ratio": 0.0005,
+  "max_brick_area_ratio": 0.12,
+  "min_aspect": 0.45,
+  "max_aspect": 4.5,
+  "projection_smooth": 11,
+  "seam_min_strength": 2500,
+  "seam_relative_strength": 0.22,
+  "seam_merge_distance": 8,
+  "min_layer_height": 12
+}
